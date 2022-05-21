@@ -1,1 +1,4 @@
-Hello World
+---
+layout: home
+image: /assets/images/intro.jpg
+---
